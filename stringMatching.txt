@@ -1,0 +1,4 @@
+dikhao 
+cout<<
+sankhya
+int
